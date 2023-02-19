@@ -15,3 +15,7 @@ ul.ingredients {
   display:inline-block;
   text-align: left;
 }
+
+ul.recipes {
+  list-style-image: url("../images/chicken.png");
+}
